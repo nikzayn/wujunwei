@@ -2,7 +2,12 @@
 
 [![wujunwei's github stats](https://github-readme-stats.vercel.app/api?username=wujunwei)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href=#><img src="contributions.svg"></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wujunwei/count.svg" />
+</p>
 ![](https://fc.dianhsu.top/lc?user=while-true-coding&loc=cn&req=rating)
 
 - 🔭 I’m currently working on cloud native
